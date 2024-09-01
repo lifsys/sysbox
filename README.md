@@ -1,4 +1,4 @@
-# Sysbox
+# Sysbox v0.1.2
 
 *Securely Execute LLM-Generated Code with Ease*
 

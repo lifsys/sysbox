@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sysbox"
-version = "0.1.1"
+version = "0.1.2"
 description = "Lightweight and portable sandbox runtime (code interpreter) Python library"
 authors = ["Mark Powers <mpoweru@lifsys.com>"]
 license = "MIT"
